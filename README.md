@@ -22,6 +22,11 @@ This is an Android torch (flashlight) app that allows users to turn their device
 3. Tap the button to toggle the flashlight on and off.
 
 ## Screenshots
-<img width="249" alt="off" src="https://github.com/ChadaBendriss/TorchKAppK/assets/113207156/2d3416a8-a208-4fb2-8fa1-9267888355bf">
+<img width="249" alt="off" src="https://github.com/ChadaBendriss/TorchAppK/assets/113207156/6163c804-9ea3-4bce-a678-42057b6b4d0a">
 
-<img width="249" alt="on" src="https://github.com/ChadaBendriss/TorchKAppK/assets/113207156/56adefab-5b71-4210-812c-31b9d9d70a9b">
+
+
+<img width="249" alt="on" src="https://github.com/ChadaBendriss/TorchAppK/assets/113207156/1d0a1717-7520-417c-8f48-9f5012388f0b">
+
+
+
