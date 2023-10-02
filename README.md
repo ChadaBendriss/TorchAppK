@@ -1,4 +1,4 @@
-# TorchKAppK
+# Torchapp
 
 ## Overview
 This is an Android torch (flashlight) app that allows users to turn their device's camera flash on and off.
